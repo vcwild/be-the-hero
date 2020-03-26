@@ -63,7 +63,7 @@ form textarea {
     filter: brightness(90%);
 }
 
-.back-link section.form form a {
+.back-link section.form a {
     display: flex;
     align-items: center;
     margin-top: 40px;
