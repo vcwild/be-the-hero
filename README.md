@@ -1,7 +1,7 @@
 # be-the-hero
 
 <p align="left"
-  <img  src="https://github.com/vcwild/be-the-hero/tree/master/frontend/src/assets/logo.svg">
+  <img  src="https://github.com/vcwild/be-the-hero/tree/master/frontend/src/assets/logo.png">
 </p>
 
 # Semana OmniStack 11
@@ -26,7 +26,7 @@
 chamado knexfile.js (nele que fica as configurações de acesso ao banco de dados) 
 #### Módulo de segurança
 - npm install cors - Serve para dizer qual endereço (http | front-end) pode acessar o servidor
-#### Comandos:
+##### Principais Comandos:
 - npm init -y // Iniciar o node package manager/Criar o package.json na pasta destino
 - npm install express --save // Instalar framework express no nodejs e acrescentar ao package automaticamente
 - npx create-react-app <appName> // Iniciar node package execute (npx) (executar container do nodejs)
@@ -49,7 +49,7 @@ chamado knexfile.js (nele que fica as configurações de acesso ao banco de dado
 - (expo install) expo-mail-composer
 - axios
 - intl
-#### Principais Comandos
+##### Principais Comandos
 - npm install -g expo-cli // Instalar pacote expo de forma global (em toda a máquina)
 - expo init <projName>; expo init mobile; (project template: expo-template-blank) // Iniciar o projeto
 - npm install @react-navigation/native // Instalar navigation do React Native
@@ -60,7 +60,7 @@ chamado knexfile.js (nele que fica as configurações de acesso ao banco de dado
 - npm install axios // Pacote axios http para back-end
 - npm install intl // Instalar pacote Intl
 
-#### Validaçao de Dados
+### Validaçao de Dados
 #### Bibliotecas Utilizadas
 - Celebrate
 - npm install celebrate
