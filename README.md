@@ -1,7 +1,7 @@
 # be-the-hero
 
 <p align="left"
-  <img  src="https://github.com/vcwild/be-the-hero/tree/master/frontend/src/assets/logo.png">
+  <img  src="https://raw.githubusercontent.com/vcwild/be-the-hero/master/frontend/src/assets/logo.png">
 </p>
 
 # Semana OmniStack 11
@@ -66,5 +66,5 @@ chamado knexfile.js (nele que fica as configurações de acesso ao banco de dado
 - npm install celebrate
 
 <p align="right">
-  <img  width=200 hight=250 src="https://github.com/vcwild/be-the-hero/tree/master/frontend/src/assets/heroes.png">
+  <img  width=200 hight=250 src="https://raw.githubusercontent.com/vcwild/be-the-hero/master/frontend/src/assets/heroes.png">
 </p>
