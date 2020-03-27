@@ -1,7 +1,7 @@
 # be-the-hero
 
 <p align="left"
-  <img  src="https://raw.githubusercontent.com/vcwild/be-the-hero/5c06a6b255cd79191bd49c8ec709256d206bbaa9/frontend/src/assets/logo.svg">
+  <img  src="https://github.com/vcwild/be-the-hero/blob/master/frontend/src/assets/logo.svg">
 </p>
 
 # Semana OmniStack 11
