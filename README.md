@@ -3,7 +3,7 @@
 </p>
 
 # Semana OmniStack 11
-> Curso de desenvolvimento em React/React Native da aplicação **Be The Hero**. Na qual ONGs poderao cadastrar casos a partir da WEB, solicitando ajuda em ocorrencias que podem ser atendidas através do app mobile pelo público em geral. O front-end, elaborado em React (web) e React Native (mobile), será integrado no back-end em Node.js. 
+> Curso de desenvolvimento em React/React Native da aplicação **Be The Hero**. Na qual ONGs poderão cadastrar casos a partir da WEB, solicitando ajuda em ocorrências que podem ser atendidas através do app mobile pelo público em geral. O front-end, elaborado em React (web) e React Native (mobile), será integrado no back-end em Node.js. 
 
 #### Configurando o ambiente de desenvolvimento com:
 - Node.js & npm
@@ -43,8 +43,8 @@
 ### Front-End  |  ReactJS
 #### Bibliotecas utilizadas
 - react-router-dom  - rotas nativas do React
-- react-icons - estilizaçao do conteúdo
-- axios - cliente http backend
+- react-icons - estilização do conteúdo
+- axios - cliente http back-end
 
 ### Mobile  |  React Native
 #### Bibliotecas Utilizadas
@@ -78,7 +78,7 @@
 - Instalar pacote Intl: 
 `npm install intl`
 
-### Validaçao de Dados
+### Validação de Dados
 #### Bibliotecas Utilizadas
 - Celebrate: 
 `npm install celebrate`
@@ -86,7 +86,7 @@
 #### Próximos Passos:
 - ESLint
 - Prettier
-- Autenticaçao JWT
+- Autenticação JWT
 - Styled Components (React e React Native)
 
 <p align="right">
