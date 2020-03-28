@@ -32,7 +32,7 @@
 `npm init -y`
 - Instalar framework express no nodejs e acrescentar ao package automaticamente: 
 `npm install express --save`
-Iniciar node package execute (npx) (executar container do nodejs): 
+- Iniciar node package execute (npx) (executar container do nodejs): 
 `npx create-react-app <appName>`
 - Executa um pacote knex e cria um arquivo knexfile.js (nele que fica as configurações de acesso ao banco de dados):
 `npx knex init`
