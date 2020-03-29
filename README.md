@@ -5,6 +5,7 @@
 # Semana OmniStack 11
 > Curso de desenvolvimento em React/React Native da aplicação **Be The Hero**. Na qual ONGs poderão cadastrar casos a partir da WEB, solicitando ajuda em ocorrências que podem ser atendidas através do app mobile pelo público em geral. O front-end, elaborado em React (web) e React Native (mobile), será integrado no back-end em Node.js. 
 
+
 #### Configurando o ambiente de desenvolvimento com:
 - Node.js & npm
 - IDE VSCode c/ Add-ons: colorize; Dracula Official; Material Icon Theme; Node Exec
@@ -88,7 +89,6 @@
 - Prettier
 - Autenticação JWT
 - Styled Components (React e React Native)
-
 <p align="right">
   <img  width=200 hight=250 src="https://raw.githubusercontent.com/vcwild/be-the-hero/master/frontend/src/assets/heroes.png">
 </p>
