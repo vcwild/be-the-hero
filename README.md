@@ -3,30 +3,30 @@
 </p>
 
 # Semana OmniStack 11
-> Curso de desenvolvimento em React/React Native da aplicação **Be The Hero**. Na qual ONGs poderão cadastrar casos a partir da WEB, solicitando ajuda em ocorrências que podem ser atendidas através do app mobile pelo público em geral. O front-end, elaborado em React (web) e React Native (mobile), será integrado no back-end em Node.js. 
+> Estudo baseado nas bilbiotecas de React/React Native, utilizado para desenvolver a aplicação **Be The Hero**. Premite que ONGs possam cadastrar casos a partir da WEB, solicitando ajuda em ocorrências a serem atendidas pelo público em geral, através do app mobile.
 
 
 #### Configurando o ambiente de desenvolvimento com:
-- Node.js & npm
-- IDE VSCode c/ Add-ons: colorize; Dracula Official; Material Icon Theme; Node Exec
+- Node.js & npm;
+- IDE VSCode c/ Add-ons: colorize; Dracula Official; Material Icon Theme; Node Exec.
 
 ### Back-End
 #### Bibliotecas Utilizadas
-- Express  -  Micro Framework para rotas
-- Nodemon -D  -  Atualiza em tempo real a aplicação back-end, no ambiente de desenvolvimento
+- Express  -  Micro Framework para rotas;
+- Nodemon -D  -  Atualiza em tempo real a aplicação back-end, no ambiente de desenvolvimento.
 
 #### Resposta Visual para o Back-End
-- Insomnia
+- Insomnia.
 
 #### Banco de Dados
-- SQLite
+- SQLite.
 
 #### Query Builder para db em SQL
-- Knex.js  -  Construtor de dados
-- Driver  -   sqlite3
+- Knex.js  -  Construtor de dados;
+- Driver  -   sqlite3.
 
 #### Módulo de segurança
-- Cors
+- Cors.
 
 #### Principais Comandos:
 - Iniciar o node package manager/Criar o package.json na pasta destino: 
@@ -43,21 +43,21 @@
 
 ### Front-End  |  ReactJS
 #### Bibliotecas utilizadas
-- react-router-dom  - rotas nativas do React
-- react-icons - estilização do conteúdo
-- axios - cliente http back-end
+- react-router-dom  - rotas nativas do React;
+- react-icons - estilização do conteúdo;
+- axios - cliente http back-end.
 
 ### Mobile  |  React Native
 #### Bibliotecas Utilizadas
-- expo-cli
-- @react-navigation/native
-- react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
-- @react-navigation/stack
-- expo-constants
-- @expo/vector-icons
-- expo-mail-composer
-- axios
-- intl
+- expo-cli;
+- @react-navigation/native;
+- react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view;
+- @react-navigation/stack;
+- expo-constants;
+- @expo/vector-icons;
+- expo-mail-composer;
+- axios;
+- intl.
 
 #### Principais Comandos
 - Instalar pacote expo de forma global (em toda a máquina): 
@@ -85,10 +85,10 @@
 `npm install celebrate`
 
 #### Próximos Passos:
-- ESLint
-- Prettier
-- Autenticação JWT
-- Styled Components (React e React Native)
+- ESLint;
+- Prettier;
+- Autenticação JWT;
+- Styled Components (React e React Native).
 <p align="right">
   <img  width=200 hight=250 src="https://raw.githubusercontent.com/vcwild/be-the-hero/master/frontend/src/assets/heroes.png">
 </p>
