@@ -3,7 +3,7 @@
 </p>
 
 # Semana OmniStack 11
-> Estudo baseado nas bilbiotecas de React/React Native, utilizado para desenvolver a aplicação **Be The Hero**. Premite que ONGs possam cadastrar casos a partir da WEB, solicitando ajuda em ocorrências a serem atendidas pelo público em geral, através do app mobile.
+> Estudo baseado nas bilbiotecas React/React Native, utilizado para desenvolver a aplicação **Be The Hero**. Permite que ONGs possam cadastrar casos a partir da WEB, solicitando ajuda em ocorrências a serem atendidas pelo público em geral, através do app mobile.
 
 
 #### Configurando o ambiente de desenvolvimento com:
