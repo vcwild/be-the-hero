@@ -5,11 +5,6 @@
 # Semana OmniStack 11
 > Estudo baseado nas bilbiotecas React/React Native, utilizado para desenvolver a aplicação **Be The Hero**. Permite que ONGs possam cadastrar casos a partir da WEB, solicitando ajuda em ocorrências a serem atendidas pelo público em geral, através do app mobile.
 
-
-#### Configurando o ambiente de desenvolvimento com:
-- Node.js & npm;
-- IDE VSCode c/ Add-ons: colorize; Dracula Official; Material Icon Theme; Node Exec.
-
 ### Back-End
 #### Bibliotecas Utilizadas
 - Express  -  Micro Framework para rotas;
@@ -39,7 +34,6 @@
 `npx knex init`
 - Controlador de segurança Cors: 
 `npm install cors` 
-
 
 ### Front-End  |  ReactJS
 #### Bibliotecas utilizadas
@@ -84,11 +78,14 @@
 - Celebrate: 
 `npm install celebrate`
 
+#### Misc:
+- IDE VSCode c/ Add-ons: colorize; Dracula Official; Material Icon Theme; Node Exec.
+
 #### Próximos Passos:
 - ESLint;
 - Prettier;
 - Autenticação JWT;
-- Styled Components (React e React Native).
+- Styled Components.
 <p align="right">
   <img  width=200 hight=250 src="https://raw.githubusercontent.com/vcwild/be-the-hero/master/frontend/src/assets/heroes.png">
 </p>
