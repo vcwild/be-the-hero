@@ -2,8 +2,7 @@
   <img  src="https://github.com/vcwild/be-the-hero/blob/master/frontend/src/assets/logo.svg">
 </p>
 
-# Semana OmniStack 11
-> Estudo baseado nas bilbiotecas React/React Native, utilizado para desenvolver a aplicação **Be The Hero**. Permite que ONGs possam cadastrar casos a partir da WEB, solicitando ajuda em ocorrências a serem atendidas pelo público em geral, através do app mobile.
+> Solução idealizada a partir das bilbiotecas React/React Native, utilizadas para desenvolver a webpage e a aplicação **Be The Hero**. Permite que ONGs possam cadastrar casos a partir da web, solicitando ajuda em ocorrências a serem atendidas através do app, pelo público em geral.
 
 ### Back-End
 #### Bibliotecas Utilizadas
