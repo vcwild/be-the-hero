@@ -74,8 +74,7 @@
 
 ### Validação de Dados
 #### Bibliotecas Utilizadas
-- Celebrate: 
-`npm install celebrate`
+- Celebrate
 
 #### Misc:
 - IDE VSCode c/ Add-ons: colorize; Dracula Official; Material Icon Theme; Node Exec.
